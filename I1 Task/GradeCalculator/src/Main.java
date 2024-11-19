@@ -20,7 +20,7 @@ public class Main {
                     System.out.println("Your test grade is greater than 6 or lower than 1, ERROR");
         }else{
                double testAverage = (test1 + test2) / 2;
-               System.out.println("your grade is: " + testAverage);}
+               System.out.println("Your grade is: " + testAverage);}
             }
         }else{
                System.out.println("Error");}
