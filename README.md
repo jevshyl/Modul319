@@ -1,15 +1,15 @@
 # Modul319
 
-# 12.11.2024
-## What could I do today?
+## 12.11.2024
+### What could I do today?
 
-## Did I have any problems?
+### Did I have any problems?
 
-## If yes, how could I solve them?
+### If yes, how could I solve them?
 
-# 19.11.2024
-## What could I do today?
+## 19.11.2024
+### What could I do today?
 
-## Did I have any problems?
+### Did I have any problems?
 
-## If yes, how could I solve them?
+### If yes, how could I solve them?
