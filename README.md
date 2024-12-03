@@ -37,3 +37,6 @@
 - yes wit D3, the loop didnt work
 ### If yes, how could I solve them?
  - i tried sone things out and did some research on the topic
+### What am I doing next week?
+- finishing task A3
+- starting with a new task
